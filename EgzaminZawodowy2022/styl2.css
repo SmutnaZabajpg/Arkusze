@@ -1,0 +1,66 @@
+header{
+    background-color:darkred;
+    height: auto;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    color:white;
+}
+menu{
+    background-color: rgb(221, 72, 122);
+    width: 100%;
+    margin-top: auto;
+    height: auto;
+    padding: 10px;
+    margin-bottom: auto;
+}
+#leftDiv
+{
+    height: 322px;
+    width: 50%;
+    background-color: snow;
+    float: left;
+}
+#rightDiv
+{
+    height: 322px;
+    width: 50%;
+    background-color: rgb(221, 72, 122);
+    float: left;
+    text-align: center;
+}
+footer
+{
+    height: auto;
+    width: 100%;
+    background-color: brown;
+    color: white;
+    text-align: center;
+}
+#IconHome
+{
+    width: 80px;
+    margin-left: 40px;
+    border-radius: 50%;
+}
+#IconFuel
+{
+    width: 80px;
+    margin-left: 80px;
+    border-radius: 20%;
+}
+#IconCar
+{
+    margin-top: 25px;
+    width: 30%;
+}
+table
+{
+    border: 1px solid olivedrab;
+    text-align: center;
+    width: 90%;
+}
+td
+{
+    border: 1px solid olivedrab;
+}
